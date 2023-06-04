@@ -1,2 +1,4 @@
 # gitcourse
 elzero
+
+##project notes
